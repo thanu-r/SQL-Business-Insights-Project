@@ -1,4 +1,4 @@
-# SQL-Business-Insights-Project
+
 # SQL Business Insights Project
 
 ## Project Overview
