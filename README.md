@@ -124,16 +124,10 @@ Implemented indexing on frequently queried columns to improve query performance.
 
 ### Top Customers Analysis
 
-(Add Screenshot)
-
 ### Product Performance Analysis
-
-(Add Screenshot)
 
 ### Country-wise Sales Analysis
 
-(Add Screenshot)
-
 ### Query Execution Plan
 
-(Add Screenshot)
+### Window Function
